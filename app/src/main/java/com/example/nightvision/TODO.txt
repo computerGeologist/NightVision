@@ -1,0 +1,10 @@
+Fix screen rotation in MainActivity so that everything is the right size: 1 hour- Done?
+
+Delete used files- Done!
+
+Two drop-down menus- One to set # of pictures, one to set brightening factor- Done!
+Showtoast: Hold the camera steady
+Optional: Center the preview in MainActivity: 1 hour spent on this, maybe. Done on its own!
+Optional: Percentage progress bars- It's so fast it doesn't matter anymore!
+
+
